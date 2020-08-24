@@ -31,8 +31,6 @@ if __name__ == "__main__":
     #recursion method
     #feb = recurion_fibonacci(num)
 
-    #print("{0}th Fibonacci number is: {1}".format(num, feb))
-
     #using loop
     feb = loop_fibonacci(num)
 
